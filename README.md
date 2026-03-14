@@ -9,9 +9,7 @@ This project helps users **track expenses, analyze spending patterns, and receiv
 
 https://personal-finance-tracker-id32.onrender.com
 
-```
-https://your-app-link.onrender.com
-```
+
 
 ---
 
