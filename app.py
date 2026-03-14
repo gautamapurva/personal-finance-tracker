@@ -9,6 +9,7 @@ from ui_components import card, section, table
 
 
 app = dash.Dash(__name__)
+server = app.server
 app.title = "Personal Finance Dashboard"
 
 
